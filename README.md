@@ -3,7 +3,7 @@
 Capabilities..
 Automate swipes, swipes and matches with all kinds of women. Does not discriminate.
 
-send greet messages to 100's of new new matches, 
+send greet messages to 100's of new matches, 
 
 extract names of ones who replied atleast once and ones who havent replied never.
 
